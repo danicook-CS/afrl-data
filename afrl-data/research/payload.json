@@ -36,7 +36,7 @@
     "Ground": [
       {
         "title": "Localization with Dynamic Obstacles",
-        "thumbnail": "https://afrl.cse.sc.edu/afrl/research/marios/images/dyn_loc2.png",
+        "thumbnail": "https://github.com/danicook-CS/afrl-data/blob/main/afrl-data/research/localization_dynamic_obstacles/dyn_loc2.png?raw=true",
         "link": "https://raw.githubusercontent.com/danicook-CS/afrl-data/main/afrl-data/research/localization_dynamic_obstacles/payload.md"
       }
     ]
