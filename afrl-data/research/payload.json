@@ -45,7 +45,7 @@
     "Aerial" : [
       {
         "title": "Birds Eye View",
-        "thumbnail": "https://afrl.cse.sc.edu/afrl/research/birdseyeview/birdseyeview1.jpg",
+        "thumbnail": "https://github.com/danicook-CS/afrl-data/blob/main/afrl-data/research/birds_eye_view/birdseyeview1.jpg?raw=true",
         "link": "https://raw.githubusercontent.com/danicook-CS/afrl-data/main/afrl-data/research/birds_eye_view/payload.md"
       }
     ]
