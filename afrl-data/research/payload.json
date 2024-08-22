@@ -3,11 +3,13 @@
     "Current":  [
       {
         "title": "Vision Based Estimation",
-        "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/research/vision_based_estimation/payload.md"
+        "thumbnail": "https://raw.githubusercontent.com/danicook-CS/afrl-data/main/afrl-data/research/vision_based_estimation/payload.md",
+        "link": "https://raw.githubusercontent.com/danicook-CS/afrl-data/main/afrl-data/research/vision_based_estimation/payload.md"
       },
       {
         "title": "Kinematics Hyper-Redundant Manipulators",
-        "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/research/efficient_kinematics/payload.md"
+        "thumbnail": "https://afrl.cse.sc.edu/afrl/research/marios/images/hyp3.png",
+        "link": "https://raw.githubusercontent.com/danicook-CS/afrl-data/main/afrl-data/research/efficient_kinematics/payload.md"
       }
     ]
   },
@@ -15,15 +17,18 @@
     "Aqua" : [
       {
         "title": "Shipwreck Mapping",
-        "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/research/shipwreck_mapping/payload.md"
+        "thumbnail": "https://raw.githubusercontent.com/18r441m/afrl-data/research/research/shipwreck_mapping/shipwreck.png",
+        "link": "https://raw.githubusercontent.com/danicook-CS/afrl-data/main/afrl-data/research/shipwreck_mapping/payload.md"
       },
       {
         "title": "Underwater Cave Mapping",
-        "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/research/underwater_cave_mapping/payload.md"
+        "thumbnail": "https://i.ytimg.com/vi/L_a1x7DZQo0/maxresdefault.jpg",
+        "link": "https://raw.githubusercontent.com/danicook-CS/afrl-data/main/afrl-data/research/underwater_cave_mapping/payload.md"
       },
       {
           "title": "Localizing AUVS to Sand Ripples",
-          "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/research/localizing_auvs/payload.md"
+          "thumbnail": "https://afrl.cse.sc.edu/afrl/research/sand-auvs/sandrip1.jpg",
+          "link": "https://raw.githubusercontent.com/danicook-CS/afrl-data/main/afrl-data/research/localizing_auvs/payload.md"
       }
     ]
   },
@@ -31,7 +36,8 @@
     "Ground": [
       {
         "title": "Localization with Dynamic Obstacles",
-        "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/research/localization_dynamic_obstacles/payload.md"
+        "thumbnail": "https://afrl.cse.sc.edu/afrl/research/marios/images/dyn_loc2.png",
+        "link": "https://raw.githubusercontent.com/danicook-CS/afrl-data/main/afrl-data/research/localization_dynamic_obstacles/payload.md"
       }
     ]
   },
@@ -39,7 +45,8 @@
     "Aerial" : [
       {
         "title": "Birds Eye View",
-        "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/research/birds_eye_view/payload.md"
+        "thumbnail": "https://afrl.cse.sc.edu/afrl/research/birdseyeview/birdseyeview1.jpg",
+        "link": "https://raw.githubusercontent.com/danicook-CS/afrl-data/main/afrl-data/research/birds_eye_view/payload.md"
       }
     ]
   },
@@ -48,7 +55,8 @@
     [
       {
         "title": "Autonomous Surface Vehicles",
-        "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/research/autonomous_mokai/payload.md"
+        "thumbnail": "https://afrl.cse.sc.edu/afrl/robots/ASV/Amphenol7FM.png",
+        "link": "https://raw.githubusercontent.com/danicook-CS/afrl-data/main/afrl-data/research/autonomous_mokai/payload.md"
       }
     ]
   }
