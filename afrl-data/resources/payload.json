@@ -3,7 +3,7 @@
     "Data" : [
       {
         "title": "Datasets",
-        "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/resources/datasets/payload.md"
+        "link": "https://raw.githubusercontent.com/danicook-CS/afrl-data/main/afrl-data/resources/datasets/payload.md"
       }
     ]
   },
@@ -11,7 +11,7 @@
     "Software" : [
         {
           "title": "Software",
-          "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/resources/software/payload.md"
+          "link": "https://raw.githubusercontent.com/danicook-CS/afrl-data/main/afrl-data/resources/software/payload.md"
         }
       ]
     }, 
@@ -19,7 +19,7 @@
       "Media" : [
         {
           "title": "Media",
-          "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/resources/media/payload.md"
+          "link": "https://raw.githubusercontent.com/danicook-CS/afrl-data/main/afrl-data/resources/media/payload.md"
         }
       ]
     },
@@ -27,7 +27,7 @@
       "Conferences" : [
         {
           "title": "Conferences",
-          "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/resources/conferences/payload.md"
+          "link": "https://raw.githubusercontent.com/danicook-CS/afrl-data/main/afrl-data/resources/conferences/payload.md"
         }
       ]
     },
@@ -35,7 +35,7 @@
       "Collaborators" : [
         {
           "title": "Links to our Collaborators",
-          "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/resources/collaborators/payload.md"
+          "link": "https://raw.githubusercontent.com/danicook-CS/afrl-data/main/afrl-data/resources/collaborators/payload.md"
         }
       ]
     },
@@ -60,7 +60,7 @@
       "Jetyak" : [
         {
           "title": "Jetyak Documentation",
-          "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/resources/jetyak/payload.md"
+          "link": "https://raw.githubusercontent.com/danicook-CS/afrl-data/main/afrl-data/resources/jetyak/payload.md"
         }
       ]
     },
@@ -68,7 +68,7 @@
       "StereoRig" : [
         {
           "title": "Stereo Rig Documentation",
-          "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/resources/stereo_rig/payload.md"
+          "link": "https://raw.githubusercontent.com/danicook-CS/afrl-data/main/afrl-data/resources/stereo_rig/payload.md"
         }
       ]
     }  
