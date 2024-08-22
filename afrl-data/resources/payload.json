@@ -1,0 +1,75 @@
+[
+  {
+    "Data" : [
+      {
+        "title": "Datasets",
+        "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/resources/datasets/payload.md"
+      }
+    ]
+  },
+  {
+    "Software" : [
+        {
+          "title": "Software",
+          "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/resources/software/payload.md"
+        }
+      ]
+    }, 
+    {
+      "Media" : [
+        {
+          "title": "Media",
+          "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/resources/media/payload.md"
+        }
+      ]
+    },
+    {
+      "Conferences" : [
+        {
+          "title": "Conferences",
+          "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/resources/conferences/payload.md"
+        }
+      ]
+    },
+    {
+      "Collaborators" : [
+        {
+          "title": "Links to our Collaborators",
+          "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/resources/collaborators/payload.md"
+        }
+      ]
+    },
+    {
+      "ReadingGroup" : [
+        {
+          "title": "Reading Group",
+          "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/resources/reading_group/payload.md"
+        }
+      ]
+    },
+    {
+      "Wiki" : [
+        {
+          "title": "Marine Robotics Wiki",
+
+          "link": "https://afrl.cse.sc.edu/wiki/index.php/Main_Page"
+        }
+      ]
+    },
+    {
+      "Jetyak" : [
+        {
+          "title": "Jetyak Documentation",
+          "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/resources/jetyak/payload.md"
+        }
+      ]
+    },
+    {
+      "StereoRig" : [
+        {
+          "title": "Stereo Rig Documentation",
+          "link": "https://raw.githubusercontent.com/18r441m/afrl-data/research/resources/stereo_rig/payload.md"
+        }
+      ]
+    }  
+  ]

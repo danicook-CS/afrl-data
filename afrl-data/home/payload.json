@@ -1,0 +1,31 @@
+[
+    {
+        "Home": [
+
+            {
+                "title":"Aqua Research",
+                "thumbnail" : "https://raw.githubusercontent.com/18r441m/afrl-data/research/research/shipwreck_mapping/shipwreck.png",
+                "link": "https://raw.githubusercontent.com/18r441m/afrl/main/client/src/pages/Research.js?token=GHSAT0AAAAAACG6SBD37WF4GFDGV3FYQ6UEZK34LBQ"
+            },
+            {
+                "title": "Ground Research",
+                "thumbnail" : "https://afrl.cse.sc.edu/afrl/research/marios/images/dyn_loc2.png",
+                "link": "https://raw.githubusercontent.com/18r441m/afrl/main/client/src/pages/Research.js?token=GHSAT0AAAAAACG6SBD37WF4GFDGV3FYQ6UEZK34LBQ"
+
+            },
+            {
+                "title": "Aerial Research",
+                "thumbnail" : "https://afrl.cse.sc.edu/afrl/research/birdseyeview/birdseyeview1.jpg",
+                "link": "https://raw.githubusercontent.com/18r441m/afrl/main/client/src/pages/Research.js?token=GHSAT0AAAAAACG6SBD37WF4GFDGV3FYQ6UEZK34LBQ"
+
+            },
+            {
+                "title": "Hardware Research",
+                "thumbnail" : "https://afrl.cse.sc.edu/afrl/robots/ASV/Amphenol7FM.png",
+                "link": "https://raw.githubusercontent.com/18r441m/afrl/main/client/src/pages/Research.js?token=GHSAT0AAAAAACG6SBD37WF4GFDGV3FYQ6UEZK34LBQ"
+
+            }
+        ]
+    }
+    
+]

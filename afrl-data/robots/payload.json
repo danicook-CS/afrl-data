@@ -1,0 +1,32 @@
+[
+  {
+    "category": "Underwater",
+    "name": "Aqua",
+    "thumbnail": "https://raw.githubusercontent.com/18r441m/afrl/main/robots/aqua/thumbnail.jpeg",
+    "link": "https://raw.githubusercontent.com/18r441m/afrl/main/robots/aqua/payload.md"
+  },
+  {
+    "category": "Surface",
+    "name": "Jetyak",
+    "thumbnail": "https://raw.githubusercontent.com/18r441m/afrl/main/robots/jetyak/thumbnail.jpeg",
+    "link": "https://raw.githubusercontent.com/18r441m/afrl/main/robots/jetyak/payload.md"
+  },
+  {
+    "category": "Ground",
+    "name": "TurtleBot 2",
+    "thumbnail": "",
+    "link": ""
+  },
+  {
+    "category": "Ground",
+    "name": "Husky A200",
+    "thumbnail": "",
+    "link": ""
+  },
+  {
+    "category": "Ground",
+    "name": "Kuka Youbot",
+    "thumbnail": "",
+    "link": ""
+  }
+]
